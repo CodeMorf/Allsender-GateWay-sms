@@ -1,0 +1,6 @@
+{
+  "name": "Allsender Gateway",
+  "description": "Una aplicación potente y robusta de pasarela SMS para Allsender. Transforma tu móvil Android en tu propio SMS Gateway local y remoto o como cliente de consulta cíclica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
